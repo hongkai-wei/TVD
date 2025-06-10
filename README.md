@@ -1,4 +1,4 @@
-# Trajectory-aided Vision Detection (TVD): ): A Novel Approach for for Highway Abandoned Object Detection
+# Trajectory-aided Vision Detection (TVD): A Novel Approach for for Highway Abandoned Object Detection
  
  <p align="center">
      <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
